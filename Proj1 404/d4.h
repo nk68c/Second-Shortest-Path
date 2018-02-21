@@ -4,6 +4,9 @@
 //Nicholas King
 //Project 1
 
+//git changes 2/20
+//check for changes
+
 int dist[55];
 struct ltDist{
 	bool operator()(int u, int v) const {
